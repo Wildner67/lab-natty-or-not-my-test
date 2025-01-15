@@ -20,24 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Eu não sou eu! ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Meu avatar dizendo que não sou eu
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+D-ID
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Upload vídeo, input texto escolha voz e geração
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Muito interessante, atingiu o objetivo.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
+O problema principal está na precificação. Muitos recursos apresentados no curso já não estão mais disponíveis gratuitamente ou foram reduzidos.
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
